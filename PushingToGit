@@ -1,0 +1,11 @@
+First, make changes and use command:
+git add .
+
+Second, commit the file you just added. (I need to learn the difference between adding and comitting.)
+git commit -m "Have your message in quotes here."
+
+Last, use the command:
+git push
+
+This adds the changes to the repo.
+
